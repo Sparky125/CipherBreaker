@@ -18,5 +18,7 @@ Make sure you cd into the directory where your dictionary is stored
 
 If providing your own dictionary, change name of dictionary to "word_alpha.txt" or change it in the code on Line 46
 
+Dictionary "word_alpha.txt" is 370,000+ words long
+
 I found this helps for longer texts of substitution ciphers, if you find the longest word in a ciphertext, you can run the code with the ciphertext
 and find possible words for the ciphertext, adding it into your key to help decipher the rest of the text
