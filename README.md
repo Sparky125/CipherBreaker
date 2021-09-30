@@ -10,6 +10,7 @@ Input 2 to Read from file
 
 # Second Prompt #
 Input 1 to find the pattern of the word (EX: banana = abcbcb)
+
 Input 2 to find a list of all matching words to the pattern (EX: banana: batata, bororo, carara, derere, ...)
 
 # Notes #
