@@ -5,6 +5,7 @@ Short project, used to help solve substitution ciphers
 
 # First Prompt #
 Input 1 to Input text
+
 Input 2 to Read from file
 
 # Second Prompt #
